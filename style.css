@@ -2,4 +2,38 @@ body {
     background-color: rgb(9, 9, 9);
     color: aliceblue;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+
+.bys {
+    background-color: chocolate;
+    text-decoration: none;
+    color: aliceblue;
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+}
+
+.bys a {
+    text-decoration: none;
+    color: aliceblue;
+    padding: 10px 99px;
+}
+
+
+button {
+    background-color: rgb(31, 31, 31);
+    text-decoration: none;
+    color: aliceblue;
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+    padding: 10px 99px;
 }
